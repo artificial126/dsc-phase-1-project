@@ -28,7 +28,7 @@
 
  Here some examples of visualizations.
  
- ![cd/Desktop/Top 20 Studio]
+ ![](Desktop/top20studio.jpg)
 
 ## Summary
 

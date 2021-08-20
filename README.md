@@ -1,63 +1,34 @@
-# Phase 1 Project
+# IMDB Movies Analyze
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
+    This project prepared to analyze imdb movie datasets and give recommendation to new studio to make movie.
 
 
-Now you will put your new skills to use with a large end-of-Phase project! This project should take 20 to 30 hours to complete.
+## Business Problem
 
-## Project Overview
+    Microsoft have decided to create a new movie studio, but they don’t know anything about creating movies. In this project you can see 9 different visualizations to easily see what my analyzes are. 
 
-For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
+## The Data
 
-### Business Problem
+    There are 11 different datasets in this project. You can see dataframes at section '2'.
 
-Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
-
-### The Data
-
-In the folder `zippedData` are movie datasets from:
-
-* [Box Office Mojo](https://www.boxofficemojo.com/)
-* [IMDB](https://www.imdb.com/)
-* [Rotten Tomatoes](https://www.rottentomatoes.com/)
-* [TheMovieDB](https://www.themoviedb.org/)
-* [The Numbers](https://www.the-numbers.com/)
-
-It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed or behind (e.g. struggled with the Phase 1 Code Challenge), we recommend you use only the following data files:
-
-* imdb.title.basics
-* imdb.title.ratings
-* bom.movie_gross
-
-## Deliverables
-
-There are three deliverables for this project:
-
-* A **GitHub repository**
-* A **Jupyter Notebook**
-* A **non-technical presentation**
-
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic for instructions on creating and submitting your deliverables. Refer to the rubric associated with this assignment for specifications describing high-quality deliverables.
-
-### Key Points
-
-* **Your analysis should yield three concrete business recommendations.** The ultimate purpose of exploratory analysis is not just to learn about the data, but to help an organization perform better. Explicitly relate your findings to business needs by recommending actions that you think the business (Microsoft) should take.
-
-* **Communicating about your work well is extremely important.** Your ability to provide value to an organization - or to land a job there - is directly reliant on your ability to communicate with them about what you have done and why it is valuable. Create a storyline your audience (the head of Microsoft's new movie studio) can follow by walking them through the steps of your process, highlighting the most important points and skipping over the rest.
-
-* **Use plenty of visualizations.** Visualizations are invaluable for exploring your data and making your findings accessible to a non-technical audience. Spotlight visuals in your presentation, but only ones that relate directly to your recommendations. Simple visuals are usually best (e.g. bar charts and line graphs), and don't forget to format them well (e.g. labels, titles).
 
 ## Getting Started
 
-Please start by reviewing this assignment, the rubric at the bottom of it, and the "Project Submission & Review" page. If you have any questions, please ask your instructor ASAP.
+* My approach to the this problem is looking thru studios at section 3.1, movie types at section 3.2, movie budgets at section 3.3, directors at section 3.4.
 
-Next, we recommend you check out [the Phase 1 Project Templates and Examples repo](https://github.com/learn-co-curriculum/dsc-project-template) and use the MVP template for your project.
+* I used 'bom.movie_gross.csv.gz' dataset for looking inside studios. Grouped and created first graph to look top 20 studios with most revenue.
 
-Alternatively, you can fork [the Phase 1 Project Repository](https://github.com/learn-co-curriculum/dsc-phase-1-project), clone it locally, and work in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
+* At the section 3.2 merged 'mdb.title.basics.csv.gz' and 'bom.movie_gross.csv.gz' to looked most made movie types. Also some process of coding to look top 3 studios made movie types.
 
-## Project Submission and Review
+* Section 3.3 for budget revenue relations(which analyzed positive relation).
 
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
+* Finally section 3.4 for directors to look at the visualization the highest-gross directors.
+
+## Results
+
+ Here some examples of visualizations.
+ 
+ ![cd/Desktop/Top 20 Studio]
 
 ## Summary
 

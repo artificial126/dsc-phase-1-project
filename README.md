@@ -1,15 +1,15 @@
 # IMDB Movies Analyze
 
-    This project prepared to analyze imdb movie datasets and give recommendation to new studio to make movie.
+   This project prepared to analyze imdb movie datasets and give recommendation to new studio to make movie.
 
 
 ## Business Problem
 
-    Microsoft have decided to create a new movie studio, but they don’t know anything about creating movies. In this project you can see 9 different visualizations to easily see what my analyzes are. 
+   Microsoft have decided to create a new movie studio, but they don’t know anything about creating movies. In this project you can see 9 different visualizations to easily see what my analyzes are. 
 
 ## The Data
 
-    There are 11 different datasets in this project. You can see dataframes at section '2'.
+   There are 11 different datasets in this project. You can see dataframes at section '2'.
 
 
 ## Getting Started
@@ -24,13 +24,7 @@
 
 * Finally section 3.4 for directors to look at the visualization the highest-gross directors.
 
-## Results
+## Result
 
- Here some examples of visualizations.
- 
- ![](Desktop/top20studio.jpg)
+   Conclusion is at the last section of my 'student.ipynb'.
 
-## Summary
-
-This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
-# git_practice

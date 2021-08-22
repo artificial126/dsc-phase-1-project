@@ -9,7 +9,7 @@
 
 ## The Data
 
-   There are 11 different datasets in this project. You can see dataframes at section '2'.
+   There are 11 different datasets in this project. You can see dataframes at section '2' in student.ipynb.
 
 
 ## Getting Started

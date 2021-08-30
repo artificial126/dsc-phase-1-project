@@ -5,7 +5,14 @@
 
 ## Business Problem
 
-   Microsoft have decided to create a new movie studio, but they don’t know anything about creating movies. In this project you can see 9 different visualizations to easily see what my analyzes are. 
+   Microsoft have decided to create a new movie studio, but they don’t know anything about creating movies. In this project you can see 9 different visualizations to easily see what my analyzes are.
+   
+   Our approach to business problem with this questions;
+    
+    1. Which studios has the most revenue movies? 
+    2. What is the most made type of movies?
+    3. Is there a good relation with movie budget and revenue?
+    4. Which directors made most revenue and why?
 
 ## The Data
 
@@ -26,5 +33,9 @@
 
 ## Result
 
-   Conclusion is at the last section of my 'student.ipynb'.
+ * We can recommend to new studio to make movie with one of directors;
+ - Joe Russo,Anthony Russo or Christopher Nolan,
+ - on action,adventure,comedy or drama.
+ - give possible budget between 100 million to 300 million. 
+ - And further look what BV and Fox studios are doing to have most revenue and become most popular.
 

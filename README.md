@@ -19,9 +19,13 @@
    There are 11 different datasets in this project. You can see dataframes at section '2' in student.ipynb.
    
    There is some visual samples from my project;
+   
    ![](./pictures/20studio_graph.jpg)
+   
    ![](./pictures/directors.jpg)
+   
    ![](./pictures/budget.jpg)
+   
 
 ## Getting Started
 
@@ -48,8 +52,8 @@
 
 For future work if we have 6 more months and more budget to work on this project we could work on;
 
-    On movie names(if they affect audience,ratings,reviews)
-    On movie soundtracks
-    On regulation/marketing theater dates
-    Relations between directors and studios if there is any.
+On movie names(if they affect audience,ratings,reviews)
+On movie soundtracks
+On regulation/marketing theater dates
+Relations between directors and studios if there is any.
 

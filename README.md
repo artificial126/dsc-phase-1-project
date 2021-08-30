@@ -51,9 +51,8 @@
 ## Future Work
 
 For future work if we have 6 more months and more budget to work on this project we could work on;
-
-On movie names(if they affect audience,ratings,reviews)
-On movie soundtracks
-On regulation/marketing theater dates
-Relations between directors and studios if there is any.
+- On movie names(if they affect audience,ratings,reviews)
+- On movie soundtracks
+- On regulation/marketing theater dates
+- Relations between directors and studios if there is any.
 
